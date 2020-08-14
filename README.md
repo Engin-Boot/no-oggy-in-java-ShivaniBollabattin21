@@ -7,6 +7,4 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 ## Method
 
-The code is working according to the intention. Updated main.java.
-
-
+The code has updated and working according to the intention.
